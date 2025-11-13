@@ -21,7 +21,7 @@ As únicas exceções são para as tabelas de datas de reservas e de medidas.
 
 Todas as medidas foram criadas usando as funções DAX.
 
-Modelo de Dados:
+#### Modelo de Dados:
 
 <img src="https://github.com/ciceroalcantara/analises/blob/main/dashboards/001_hoteis_smart/modelo_de_dados.png"/>
 
@@ -36,7 +36,7 @@ No **primeiro** dashboard temos visão para algumas métricas, entre elas estão
 - **Canais de venda:** É um gráfico que mostra a porcentagem que representa os canais de vendas das reservas.
 - **Receita por funcionários:** É um gráfico que mostra quanto representa o funcionário no total de receita, assim a gente fica sabendo qual funcionário performou melhor nas vendas.
 
-Dashboard 1:
+#### Dashboard 1:
 
 <img src="https://github.com/ciceroalcantara/analises/blob/main/dashboards/001_hoteis_smart/dashboard_01.png"/>
 
@@ -45,7 +45,7 @@ No **segundo** dashboard temos a visão do local em que as reservas foram feitas
 - **Receita total por país:** É um gráfico que mostra o total de receita dividida por país.
 - **Top 10 clientes:** Uma tabela que mostra os clientes que mais performaram, pode ser filtrado por país.
 
-Dashboard 2:
+#### Dashboard 2:
 
 <img src="https://github.com/ciceroalcantara/analises/blob/main/dashboards/001_hoteis_smart/dashboard_02.png"/>
 
@@ -53,6 +53,6 @@ No **terceiro** dashboard é uma tabela de detalhe que fica oculta, o cliente s�
 
 O gráfico mostra especialmente a porcentagem de crescimento de um determinado hotel ao longo do ano, comparado com o ano anterior.
 
-Dashboard 3:
+#### Dashboard 3:
 
 <img src="https://github.com/ciceroalcantara/analises/blob/main/dashboards/001_hoteis_smart/dashboard_03.png"/>
