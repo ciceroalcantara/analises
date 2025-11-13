@@ -21,7 +21,7 @@ As únicas exceções são para as tabelas de datas de reservas e de medidas.
 
 Todas as medidas foram criadas usando as funções DAX.
 
-![Modelo de Dados] (analises/dashboards/001_hoteis_smart/modelo_de_dados.png)
+![Modelo de Dados] (dashboards/001_hoteis_smart/modelo_de_dados.png)
 
 ## Visões
 
@@ -41,10 +41,10 @@ No **segundo** dashboard temos a visão do local em que as reservas foram feitas
 - **Receita total por país:** É um gráfico que mostra o total de receita dividida por país.
 - **Top 10 clientes:** Uma tabela que mostra os clientes que mais performaram, pode ser filtrado por país.
 
-![Dashboard 2] (analises/dashboards/001_hoteis_smart/dashboard_02.png)
+![Dashboard 2] (dashboards/001_hoteis_smart/dashboard_02.png)
 
 No **terceiro** dashboard é uma tabela de detalhe que fica oculta, o cliente só terá acesso caso filtre um hotel em especifico do dashboard 1 usando 'Drill-through'.
 
 O gráfico mostra especialmente a porcentagem de crescimento de um determinado hotel ao longo do ano, comparado com o ano anterior.
 
-![Dashboard 3] (analises/dashboards/001_hoteis_smart/dashboard_03.png)
+![Dashboard 3] (dashboards/001_hoteis_smart/dashboard_03.png)
